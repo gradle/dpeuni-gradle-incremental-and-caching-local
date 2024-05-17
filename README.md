@@ -14,6 +14,7 @@ training module. In this exercise you will go over the following:
 * Enable and use Local Cache
 * Order of lookup for cached outputs
 
+---
 ## Prerequisites
 
 * Finished going through the relevant sections in the training course
@@ -25,6 +26,7 @@ training module. In this exercise you will go over the following:
     * Kotlin experience a plus but not required
 * Basic experience with Java software development
 
+---
 ## Recap of Incremental Cache and Limitations
 
 1. Open the Gradle project in this repository in an editor of your choice
@@ -229,6 +231,7 @@ $ ./gradlew :app:clean :app:test
 ! Task :app:test FROM-CACHE
 ```
 
+---
 ## Solution Reference
 
 If you get stuck you can refer to the `solution` branch of this repository.
